@@ -1,4 +1,7 @@
 //6) The area of a rectangle is equal to its length x width.
+
+//well I completed it looking at someone else's code but I still dont understand it yet 
+
 function areaOfRectangle(length, width){
   let areaOfRectangle;
   if (width === undefined){
@@ -12,7 +15,6 @@ function areaOfRectangle(length, width){
 } 
 //areaOfRectangle(5);
 areaOfRectangle(5, 6);
-
 
 //Define a function and the required parameters to calculate the area of a rectangle.
 //The function should return the area, NOT print it.
